@@ -1,6 +1,6 @@
 {
-	"ip":"wallago.aternos.host",
+	"ip":"CryptogamerWorld.aternos.me",
 	"port": "46204",
-	"name": "afkbot1",
+	"name": "ServerKeeper",
 	"auto-night-skip":"true"
 }
